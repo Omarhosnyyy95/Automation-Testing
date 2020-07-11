@@ -1,0 +1,62 @@
+****************************
+Starting tests: Registeration_Assignment
+****************************
+
+Test: testValidData
+time taken: -1592410029430 .ms
+Test status: passed
+Test: testAlreadyExistingEmail
+time taken: -1592410063631 .ms
+test status: failed
+Test: testBlankFields
+time taken: -1592410095534 .ms
+Test status: passed
+Test: testFirstNameEqualslastName
+time taken: -1592410116991 .ms
+Test status: passed
+End tests: Registeration_Assignment
+
+****************************
+Starting tests: Registeration_Assignment
+****************************
+
+Test: testValidData
+time taken: 13761 .ms
+status: failed
+**********************
+Test: testAlreadyExistingEmail
+time taken: 4110 .ms
+status: passed
+**********************
+Test: testBlankFields
+time taken: 2871 .ms
+status: passed
+**********************
+Test: testFirstNameEqualslastName
+time taken: 4768 .ms
+status: passed
+**********************
+End tests: Registeration_Assignment
+
+****************************
+Starting tests: Registeration_Assignment
+****************************
+
+Test: testValidData
+time taken: 15190 .ms
+status: failed
+**********************
+Test: testAlreadyExistingEmail
+time taken: 15172 .ms
+status: failed
+**********************
+Test: testBlankFields
+time taken: 2846 .ms
+status: passed
+**********************
+Test: testFirstNameEqualslastName
+time taken: 3406 .ms
+status: passed
+**********************
+End tests: Registeration_Assignment
+

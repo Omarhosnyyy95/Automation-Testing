@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="" parallel="false">
+
+    <listeners>
+        <listener class-name="utils.EventReporter" />
+    </listeners>
+
+    <test name="Test">
+        <classes>
+            <class name="registeration.RegisterationTest" />
+        </classes>
+    </test>
+
+</suite>
