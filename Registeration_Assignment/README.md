@@ -3,6 +3,7 @@
 ### Environment:
 - **IDE**: IntelliJ.
 - **Compiler**: Java 14.
+- **Target Domain**: https://phptravels.net/.
 - **Web driver**: Chrome driver.
 - **Web browser**: Chrome browser.
 - **Dependencies**: selenium-chrome-driver, selenium-support, testng, browsermob-core.
